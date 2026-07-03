@@ -27,14 +27,14 @@ export default function ExpirenceCard() {
               <div class="flex flex-wrap items-start justify-between gap-3">
                 <div>
                   <h3 class="font-semibold tracking-tight text-white text-xl">
-                    Full Stack Engineer — Lead Consultant
+                    SoftWare Engineer
                   </h3>
                   <p class="text-sm text-slate-400 mt-1">
-                    Global Freelance / Independent Contracts
+                    Xerone
                   </p>
                 </div>
                 <div class="inline-flex items-center rounded-full text-xs font-medium transition-all duration-300 border border-slate-500/30 bg-transparent px-3 py-1.5 text-slate-300 hover:border-slate-400/50">
-                  2018 — Present
+                  mar 2026 — Present
                 </div>
               </div>
             </div>
@@ -43,29 +43,26 @@ export default function ExpirenceCard() {
                 <li class="flex items-start gap-3 text-sm text-slate-300">
                   <span class="mt-1.5 h-1.5 w-1.5 shrink-0 rounded-full bg-amber-400"></span>
                   <span>
-                    Architected high-impact web + mobile platforms with React
-                    and React Native for global clients.
+                    Architected high-impact web + mobile platforms with React.
                   </span>
                 </li>
                 <li class="flex items-start gap-3 text-sm text-slate-300">
                   <span class="mt-1.5 h-1.5 w-1.5 shrink-0 rounded-full bg-amber-400"></span>
                   <span>
-                    Delivered iOS/Android apps with native modules and Stripe
-                    integrations for secure payments.
+                   Developed responsive and user-friendly web applications using React.js.
                   </span>
                 </li>
                 <li class="flex items-start gap-3 text-sm text-slate-300">
                   <span class="mt-1.5 h-1.5 w-1.5 shrink-0 rounded-full bg-amber-400"></span>
                   <span>
                     Built full-stack applications and admin dashboards with
-                    Django REST + modern React state.
+                    Express REST + modern React state.
                   </span>
                 </li>
                 <li class="flex items-start gap-3 text-sm text-slate-300">
                   <span class="mt-1.5 h-1.5 w-1.5 shrink-0 rounded-full bg-amber-400"></span>
                   <span>
-                    Automated internal workflows with Python, Retool, and SQL,
-                    removing manual operations.
+                   Collaborated with the team to develop and maintain client-facing Full Stack applications.
                   </span>
                 </li>
               </ul>
@@ -73,17 +70,20 @@ export default function ExpirenceCard() {
                 <div class="inline-flex items-center rounded-full text-xs font-medium transition-all duration-300 border border-white/10 bg-white/[0.06] px-3 py-1.5 text-slate-200 hover:bg-white/[0.1] hover:border-white/20">
                   React
                 </div>
-                <div class="inline-flex items-center rounded-full text-xs font-medium transition-all duration-300 border border-white/10 bg-white/[0.06] px-3 py-1.5 text-slate-200 hover:bg-white/[0.1] hover:border-white/20">
-                  React Native
+                 <div class="inline-flex items-center rounded-full text-xs font-medium transition-all duration-300 border border-white/10 bg-white/[0.06] px-3 py-1.5 text-slate-200 hover:bg-white/[0.1] hover:border-white/20">
+                 Next Js
                 </div>
                 <div class="inline-flex items-center rounded-full text-xs font-medium transition-all duration-300 border border-white/10 bg-white/[0.06] px-3 py-1.5 text-slate-200 hover:bg-white/[0.1] hover:border-white/20">
-                  Django
+                  Tailwind
                 </div>
                 <div class="inline-flex items-center rounded-full text-xs font-medium transition-all duration-300 border border-white/10 bg-white/[0.06] px-3 py-1.5 text-slate-200 hover:bg-white/[0.1] hover:border-white/20">
-                  Stripe
+                  JavaScript
                 </div>
                 <div class="inline-flex items-center rounded-full text-xs font-medium transition-all duration-300 border border-white/10 bg-white/[0.06] px-3 py-1.5 text-slate-200 hover:bg-white/[0.1] hover:border-white/20">
-                  AWS
+                  TypeScript
+                </div>
+                <div class="inline-flex items-center rounded-full text-xs font-medium transition-all duration-300 border border-white/10 bg-white/[0.06] px-3 py-1.5 text-slate-200 hover:bg-white/[0.1] hover:border-white/20">
+                 Vercel
                 </div>
               </div>
             </div>
@@ -98,12 +98,12 @@ export default function ExpirenceCard() {
               <div class="flex flex-wrap items-start justify-between gap-3">
                 <div>
                   <h3 class="font-semibold tracking-tight text-white text-xl">
-                    Software Engineer
+                    Junior MERN Stack Developer / React Js developer
                   </h3>
-                  <p class="text-sm text-slate-400 mt-1">ESketchers</p>
+                  <p class="text-sm text-slate-400 mt-1">DevVerx</p>
                 </div>
                 <div class="inline-flex items-center rounded-full text-xs font-medium transition-all duration-300 border border-slate-500/30 bg-transparent px-3 py-1.5 text-slate-300 hover:border-slate-400/50">
-                  Nov 2019 — Jul 2020
+                  jan 2025 — mar 2026
                 </div>
               </div>
             </div>
@@ -112,8 +112,7 @@ export default function ExpirenceCard() {
                 <li class="flex items-start gap-3 text-sm text-slate-300">
                   <span class="mt-1.5 h-1.5 w-1.5 shrink-0 rounded-full bg-amber-400"></span>
                   <span>
-                    Delivered MERN and React Native solutions for client-facing
-                    products.
+                    Developed and delivered responsive React.js web applications for client-facing products, implementing reusable components, API integrations, and pixel-perfect user interfaces.
                   </span>
                 </li>
                 <li class="flex items-start gap-3 text-sm text-slate-300">
@@ -129,7 +128,7 @@ export default function ExpirenceCard() {
                   MERN
                 </div>
                 <div class="inline-flex items-center rounded-full text-xs font-medium transition-all duration-300 border border-white/10 bg-white/[0.06] px-3 py-1.5 text-slate-200 hover:bg-white/[0.1] hover:border-white/20">
-                  React Native
+                  React Js
                 </div>
                 <div class="inline-flex items-center rounded-full text-xs font-medium transition-all duration-300 border border-white/10 bg-white/[0.06] px-3 py-1.5 text-slate-200 hover:bg-white/[0.1] hover:border-white/20">
                   UI/UX
@@ -147,12 +146,12 @@ export default function ExpirenceCard() {
               <div class="flex flex-wrap items-start justify-between gap-3">
                 <div>
                   <h3 class="font-semibold tracking-tight text-white text-xl">
-                    Full Stack Developer
+                    Frontend Developer
                   </h3>
-                  <p class="text-sm text-slate-400 mt-1">Pixelpk</p>
+                  <p class="text-sm text-slate-400 mt-1">infoTechExpertX</p>
                 </div>
                 <div class="inline-flex items-center rounded-full text-xs font-medium transition-all duration-300 border border-slate-500/30 bg-transparent px-3 py-1.5 text-slate-300 hover:border-slate-400/50">
-                  2017 — 2019
+                  Aug 2024 — jan 2025
                 </div>
               </div>
             </div>
@@ -175,7 +174,7 @@ export default function ExpirenceCard() {
               </ul>
               <div class="mt-5 flex flex-wrap gap-2">
                 <div class="inline-flex items-center rounded-full text-xs font-medium transition-all duration-300 border border-white/10 bg-white/[0.06] px-3 py-1.5 text-slate-200 hover:bg-white/[0.1] hover:border-white/20">
-                  Full Stack
+                 React Js
                 </div>
                 <div class="inline-flex items-center rounded-full text-xs font-medium transition-all duration-300 border border-white/10 bg-white/[0.06] px-3 py-1.5 text-slate-200 hover:bg-white/[0.1] hover:border-white/20">
                   Agile

@@ -51,6 +51,9 @@ const SkillsAll = () => {
                       Next.js
                     </span>
                     <span class="rounded-lg bg-white/5 px-2.5 py-1 text-xs text-slate-300">
+                      JavaScript
+                    </span>
+                    <span class="rounded-lg bg-white/5 px-2.5 py-1 text-xs text-slate-300">
                       TypeScript
                     </span>
                     <span class="rounded-lg bg-white/5 px-2.5 py-1 text-xs text-slate-300">
@@ -99,15 +102,15 @@ const SkillsAll = () => {
                     <span class="rounded-lg bg-white/5 px-2.5 py-1 text-xs text-slate-300">
                       React Native
                     </span>
-                    <span class="rounded-lg bg-white/5 px-2.5 py-1 text-xs text-slate-300">
+                    {/* <span class="rounded-lg bg-white/5 px-2.5 py-1 text-xs text-slate-300">
                       Flutter
-                    </span>
-                    <span class="rounded-lg bg-white/5 px-2.5 py-1 text-xs text-slate-300">
+                    </span> */}
+                    {/* <span class="rounded-lg bg-white/5 px-2.5 py-1 text-xs text-slate-300">
                       BLoC
-                    </span>
-                    <span class="rounded-lg bg-white/5 px-2.5 py-1 text-xs text-slate-300">
+                    </span> */}
+                    {/* <span class="rounded-lg bg-white/5 px-2.5 py-1 text-xs text-slate-300">
                       Riverpod
-                    </span>
+                    </span> */}
                     <span class="rounded-lg bg-white/5 px-2.5 py-1 text-xs text-slate-300">
                       Expo
                     </span>
@@ -157,21 +160,21 @@ const SkillsAll = () => {
                     <h3 class="font-semibold text-white">Backend</h3>
                   </div>
                   <div class="flex flex-wrap gap-2">
-                    <span class="rounded-lg bg-white/5 px-2.5 py-1 text-xs text-slate-300">
+                    {/* <span class="rounded-lg bg-white/5 px-2.5 py-1 text-xs text-slate-300">
                       Python (Django)
-                    </span>
+                    </span> */}
                     <span class="rounded-lg bg-white/5 px-2.5 py-1 text-xs text-slate-300">
                       Node.js
                     </span>
                     <span class="rounded-lg bg-white/5 px-2.5 py-1 text-xs text-slate-300">
                       Express
                     </span>
-                    <span class="rounded-lg bg-white/5 px-2.5 py-1 text-xs text-slate-300">
+                    {/* <span class="rounded-lg bg-white/5 px-2.5 py-1 text-xs text-slate-300">
                       Adonis
                     </span>
                     <span class="rounded-lg bg-white/5 px-2.5 py-1 text-xs text-slate-300">
                       FastAPI
-                    </span>
+                    </span> */}
                   </div>
                 </div>
               </div>
@@ -212,9 +215,9 @@ const SkillsAll = () => {
                     <span class="rounded-lg bg-white/5 px-2.5 py-1 text-xs text-slate-300">
                       Firebase
                     </span>
-                    <span class="rounded-lg bg-white/5 px-2.5 py-1 text-xs text-slate-300">
+                    {/* <span class="rounded-lg bg-white/5 px-2.5 py-1 text-xs text-slate-300">
                       Redis
-                    </span>
+                    </span> */}
                     <span class="rounded-lg bg-white/5 px-2.5 py-1 text-xs text-slate-300">
                       Supabase
                     </span>
@@ -247,27 +250,27 @@ const SkillsAll = () => {
                     <h3 class="font-semibold text-white">DevOps</h3>
                   </div>
                   <div class="flex flex-wrap gap-2">
-                    <span class="rounded-lg bg-white/5 px-2.5 py-1 text-xs text-slate-300">
+                    {/* <span class="rounded-lg bg-white/5 px-2.5 py-1 text-xs text-slate-300">
                       AWS
-                    </span>
+                    </span> */}
                     <span class="rounded-lg bg-white/5 px-2.5 py-1 text-xs text-slate-300">
                       Docker
                     </span>
-                    <span class="rounded-lg bg-white/5 px-2.5 py-1 text-xs text-slate-300">
+                    {/* <span class="rounded-lg bg-white/5 px-2.5 py-1 text-xs text-slate-300">
                       Kubernetes
-                    </span>
+                    </span> */}
                     <span class="rounded-lg bg-white/5 px-2.5 py-1 text-xs text-slate-300">
                       Vercel
                     </span>
-                    <span class="rounded-lg bg-white/5 px-2.5 py-1 text-xs text-slate-300">
+                    {/* <span class="rounded-lg bg-white/5 px-2.5 py-1 text-xs text-slate-300">
                       DigitalOcean
-                    </span>
+                    </span> */}
                   </div>
                 </div>
               </div>
             </div>
           </div>
-          <div style={{ opacity: "1", transform: " none" }}>
+          {/* <div style={{ opacity: "1", transform: " none" }}>
             <div class="group relative overflow-hidden rounded-2xl border border-white/[0.06] bg-white/[0.02] backdrop-blur transition-all duration-500 hover:border-white/[0.12] hover:bg-white/[0.04] p-6 h-full">
               <div class="relative z-10">
                 <div class="flex flex-col gap-4">
@@ -312,7 +315,7 @@ const SkillsAll = () => {
                 </div>
               </div>
             </div>
-          </div>
+          </div> */}
           <div style={{ opacity: "1", transform: " none" }}>
             <div class="group relative overflow-hidden rounded-2xl border border-white/[0.06] bg-white/[0.02] backdrop-blur transition-all duration-500 hover:border-white/[0.12] hover:bg-white/[0.04] p-6 h-full">
               <div class="relative z-10">
@@ -346,15 +349,15 @@ const SkillsAll = () => {
                     <span class="rounded-lg bg-white/5 px-2.5 py-1 text-xs text-slate-300">
                       CI/CD
                     </span>
-                    <span class="rounded-lg bg-white/5 px-2.5 py-1 text-xs text-slate-300">
+                    {/* <span class="rounded-lg bg-white/5 px-2.5 py-1 text-xs text-slate-300">
                       Agile
-                    </span>
-                    <span class="rounded-lg bg-white/5 px-2.5 py-1 text-xs text-slate-300">
+                    </span> */}
+                    {/* <span class="rounded-lg bg-white/5 px-2.5 py-1 text-xs text-slate-300">
                       Scrum
-                    </span>
-                    <span class="rounded-lg bg-white/5 px-2.5 py-1 text-xs text-slate-300">
+                    </span> */}
+                    {/* <span class="rounded-lg bg-white/5 px-2.5 py-1 text-xs text-slate-300">
                       GraphQL
-                    </span>
+                    </span> */}
                   </div>
                 </div>
               </div>
