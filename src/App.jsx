@@ -8,7 +8,7 @@ import About from './components/home/About'
 import Footer from './components/layout/Footer'
 import Aslan from './components/skills/aslan'
 import SkillsAll from './components/skills/SkillsAll'
-import ExpirenceCard from './components/Expirence/ExpirenceCard.jsx'
+import ExpirenceCard from './components/expirence/ExpirenceCard.jsx'
 import Projects from './components/projects/Projects'
 import Educations from './components/edu/Educations'
 import TopRatedFreelancer from './components/hire/TopRatedFreelancer'
@@ -26,7 +26,7 @@ function App() {
   <Aslan/>
   <SkillsAll />
   <ExpirenceCard/>
-  <Projects/>
+  {/* <Projects/> */}
   <Educations/>
   <TopRatedFreelancer/>
   </div>
