@@ -198,16 +198,19 @@ export default function Projects() {
                 </h3>
                 <div class="mt-2 flex flex-wrap gap-1.5">
                   <span class="rounded bg-white/[0.06] px-2 py-0.5 text-xs text-slate-400">
-                    Flutter
+                   Next.js
                   </span>
                   <span class="rounded bg-white/[0.06] px-2 py-0.5 text-xs text-slate-400">
-                    FastAPI
+                    Node.js
+                  </span>
+                  <span class="rounded bg-white/[0.06] px-2 py-0.5 text-xs text-slate-400">
+                    Express.js
                   </span>
                   <span class="rounded bg-white/[0.06] px-2 py-0.5 text-xs text-slate-400">
                     PostgreSQL
                   </span>
                   <span class="rounded bg-white/[0.06] px-2 py-0.5 text-xs text-slate-400">
-                    Stripe
+                    Vercel
                   </span>
                 </div>
               </div>
