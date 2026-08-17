@@ -1,4 +1,5 @@
 import React from "react";
+import Aslan from "./aslan";
 
 const Contact = () => {
   const contactInfo = [
@@ -161,14 +162,7 @@ const Contact = () => {
               Ready to discuss your next project?
             </p>
 
-            <a
-              href="https://wa.me/923464013879?text=Hi%20Muhammad%20Aslan%2C%20I%20would%20like%20to%20discuss%20a%20project%20or%20opportunity%20with%20you."
-              target="_blank"
-              rel="noopener noreferrer"
-              className="inline-flex items-center gap-2 rounded-full bg-gradient-to-r from-amber-600 to-amber-500 px-6 py-3 text-sm font-semibold text-white shadow-[0_0_20px_rgba(245,158,11,0.25)] transition-all duration-300 hover:from-amber-500 hover:to-amber-400 hover:shadow-[0_0_30px_rgba(245,158,11,0.4)] active:scale-[0.98]"
-            >
-              Let's Work Together
-            </a>
+            <Aslan/>
           </div>
         </div>
       </div>

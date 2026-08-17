@@ -262,9 +262,15 @@ const SkillsAll = () => {
                     <span class="rounded-lg bg-white/5 px-2.5 py-1 text-xs text-slate-300">
                       Vercel
                     </span>
-                    {/* <span class="rounded-lg bg-white/5 px-2.5 py-1 text-xs text-slate-300">
+                    <span class="rounded-lg bg-white/5 px-2.5 py-1 text-xs text-slate-300">
                       DigitalOcean
-                    </span> */}
+                    </span>
+                    <span class="rounded-lg bg-white/5 px-2.5 py-1 text-xs text-slate-300">
+                      Netlify
+                    </span>
+                     <span class="rounded-lg bg-white/5 px-2.5 py-1 text-xs text-slate-300">
+                      Render
+                    </span>
                   </div>
                 </div>
               </div>
