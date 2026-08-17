@@ -93,7 +93,7 @@ const HeroSections = () => {
             className="max-w-2xl text-lg leading-relaxed text-slate-300 md:text-xl"
             style={{ opacity: "1", transform: "none" }}
           >
-            I am a MERN Stack Developer with experience building responsive,
+            I am a MERN Stack Developer with 2+ years of experience building responsive,
             scalable, and user-friendly web applications using MongoDB,
             Express.js, React.js, and Node.js. I enjoy solving real-world
             problems and creating modern digital solutions.

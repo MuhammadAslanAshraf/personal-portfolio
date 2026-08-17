@@ -3,7 +3,6 @@ import './App.css'
 import Navbar from './components/layout/Navbar'
 import HeroSections from './components/hero/HeroSections'
 import SelectorProject from './components/feature/SelectorProject'
-import SuccessStories from './components/testimonials/SuccessStories'
 import About from './components/home/About'
 import Footer from './components/layout/Footer'
 import Aslan from './components/skills/aslan'
@@ -20,13 +19,13 @@ function App() {
    <Navbar/>
    <div className='md:px-20 scroll-smooth'>
   <HeroSections/>
-  <SelectorProject/>
+  {/* <SelectorProject/> */}
   {/* <SuccessStories/> */}
   <About/>
   <Aslan/>
   <SkillsAll />
   <ExpirenceCard/>
-  {/* <Projects/> */}
+  <Projects/>
   <Educations/>
   <TopRatedFreelancer/>
   </div>
