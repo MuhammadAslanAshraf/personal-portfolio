@@ -8,7 +8,7 @@ const Navbar = () => {
 				<div className="flex items-center gap-3">
 					<div className="flex h-9 w-9 items-center justify-center rounded-xl bg-amber-500">
 						<span className="text-sm font-bold text-white">MA</span>
-					</div><span className="hidden font-semibold text-white sm:block">Muhammad Aslan</span>
+					</div><span className="hidden font-semibold text-white sm:block">Muhammad Aslan Ashraf</span>
 				</div>
 				{/* Nav Links */}
         <nav className="hidden md:flex items-center gap-8 text-sm text-slate-400">

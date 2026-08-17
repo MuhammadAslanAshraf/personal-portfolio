@@ -52,7 +52,7 @@ const TopRatedFreelancer = () => {
           <div className="flex flex-wrap items-center justify-center gap-6 sm:gap-10">
 
             <div className="text-center">
-              <p className="text-2xl font-bold text-green-400 sm:text-3xl">1.6+</p>
+              <p className="text-2xl font-bold text-green-400 sm:text-3xl">2+</p>
               <p className="text-xs text-slate-500 sm:text-sm">Years Experience</p>
             </div>
 

@@ -11,6 +11,7 @@ import ExpirenceCard from './components/expirence/ExpirenceCard.jsx'
 import Projects from './components/projects/Projects'
 import Educations from './components/edu/Educations'
 import TopRatedFreelancer from './components/hire/TopRatedFreelancer'
+import Contact from './components/skills/Contact.jsx'
 
 function App() {
 
@@ -21,6 +22,7 @@ function App() {
   <HeroSections/>
   {/* <SelectorProject/> */}
   {/* <SuccessStories/> */}
+  <Contact/>
   <About/>
   <Aslan/>
   <SkillsAll />

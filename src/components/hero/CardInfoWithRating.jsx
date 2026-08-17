@@ -24,7 +24,7 @@ const CardInfoWithRating = () => {
           >
             <path d="M4 14a1 1 0 0 1-.78-1.63l9.9-10.2a.5.5 0 0 1 .86.46l-1.92 6.02A1 1 0 0 0 13 10h7a1 1 0 0 1 .78 1.63l-9.9 10.2a.5.5 0 0 1-.86-.46l1.92-6.02A1 1 0 0 0 11 14z"></path>
           </svg>
-          <p className="text-3xl font-bold text-white">1.6+</p>
+          <p className="text-3xl font-bold text-white">2+</p>
           <p className="mt-1 text-sm text-slate-500">Years Experience</p>
         </div>
         <div className="group relative overflow-hidden rounded-2xl border border-white/[0.06] bg-white/[0.02] p-6 transition-all hover:border-white/[0.12] hover:bg-white/[0.04]">
