@@ -80,7 +80,7 @@ const HeroSections = () => {
                         className="inline-block"
                         style={{ opacity: "1", transform: "none" }}
                       >
-                        JavaScript Developer
+                        React.js Developer
                       </span>
                     </span>
                   </span>
