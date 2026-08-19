@@ -138,7 +138,7 @@ export default function Projects() {
             <div class="group relative overflow-hidden rounded-2xl border border-white/[0.08] bg-white/[0.02] p-6 text-slate-100 backdrop-blur-xl transition-all duration-500 hover:border-white/[0.15] hover:bg-white/[0.04] hover:shadow-[0_8px_40px_rgba(245,158,11,0.12)] before:pointer-events-none before:absolute before:inset-0 before:rounded-2xl before:bg-gradient-to-br before:from-white/[0.08] before:to-transparent before:opacity-0 before:transition-opacity before:duration-500 hover:before:opacity-100 flex h-full flex-col">
               <div class="flex flex-col gap-2">
                 <h3 class="text-lg font-semibold tracking-tight text-white">
-                  7Eagle Group
+                  ArmyTech platform
                 </h3>
                 <div class="mt-2 flex flex-wrap gap-1.5">
                   <span class="rounded bg-white/[0.06] px-2 py-0.5 text-xs text-slate-400">
